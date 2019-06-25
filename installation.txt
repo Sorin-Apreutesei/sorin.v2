@@ -1,1 +1,31 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. manually editing date without using calendar error
+
+2. Work Items - fixed
+current month, all hours, active employees, active projects, all team, sorin - download 
+Downloading the document two times
+
+
+
+
+1. Work Items 
+Reset filters - all hours but there are only billable hours
+
+2. Not all employees added, (e.g. Bogdan Nechita, Ionela Barbuta, Dragos Radu, Silvia Gandu) e.g. 1.1.2018-1.2.2018
+
+3. Go to projects workhours - reset filters add all preta projects - select/deselect projects from the list
+also search employees
+
+4. Active/Inactive projects: search projects shows all the projects
+
+5. Statistics - search by Name a billable project that has no billable hours added will return no result
+
+6. All billability filter removes some of the projects (same for all projects)
+
+7. Statistics: download not working correctly
+
+8. New projects?
+
+
+
+
+
